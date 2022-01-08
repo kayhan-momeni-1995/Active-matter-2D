@@ -11,7 +11,7 @@ The simulation environment looks like the following video:
          <img alt="2D Active Matter Simulation Video" src="https://github.com/kayhan-momeni-1995/Active-matter-2D/blob/main/2D%20active%20matter.png?raw=true"
               width=500"></a>
                    
-Note that the particles' color represent their moving direction according to the up-left wheel. At the end of the video, notable is the fact that a vortex with four defect lines is formed.
+Note that the particles' color represent their moving direction according to the top-left wheel. At the end of the video, notable is the fact that a vortex with four defect lines is formed.
                    
 My final presentation of this project is documented [here](http://softmatter.physics.sharif.edu/wp-content/uploads/2018/09/kayhan/assets/player/KeynoteDHTMLPlayer.html)
 
