@@ -3,7 +3,7 @@
 
 I wrote this code from scratch as a part of my bachelor's project. The original model was previously introduced and analyzed in our research group [[1]](#1).
 
-This beautifully-visualized simulation looks like the following video:
+This beautifully-visualized simulation looks like the following video (click on the image):
 
 <a href="https://www.youtube.com/watch?v=QI_4dZvm48M&ab_channel=KayhanMomeni">
          <img alt="2D Active Matter Simulation Video" src="https://github.com/kayhan-momeni-1995/Active-matter-2D/blob/main/2D%20active%20matter.png?raw=true"
