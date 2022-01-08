@@ -6,6 +6,7 @@ I wrote this code from scratch as a part of my bachelor's project. The original 
 This simulation could be classified as a molecular dynamics simulation. Active particles tend to move towards a common direction if they are placed in a "close" contact with each other (this is considered as an alignment term in the model.) However, if two particles are "too close" they tend to repel each other and move away (this is also considered as a repulsion term in the model.) Moreover, if they hit the wall, they get repelled too.
 
 The simulation environment looks like the following video:
+
 <a href="https://www.youtube.com/watch?v=QI_4dZvm48M&ab_channel=KayhanMomeni">
          <img alt="2D Active Matter Simulation Video" src="https://github.com/kayhan-momeni-1995/Active-matter-2D/blob/main/2D%20active%20matter.png?raw=true"
          width=500">
