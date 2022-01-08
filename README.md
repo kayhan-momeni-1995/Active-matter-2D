@@ -1,4 +1,4 @@
-# Active-matter-2D
+# 2D Active Matter
 
 
 I wrote this code from scratch as a part of my bachelor's project. The original model was previously introduced and analyzed in our research group [[1]](#1).
