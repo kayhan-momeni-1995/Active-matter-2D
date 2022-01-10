@@ -11,7 +11,7 @@ This beautifully-visualized simulation looks like the following video (click on 
                    
 It could be classified as a molecular dynamics simulation. Active particles tend to move towards a common direction if they are placed in a "close" contact with each other (this is considered as an alignment term in the model.) However, if two particles are "too close" they tend to repel each other and move away (this is also considered as a repulsion term in the model.) Moreover, if they hit the wall, they get repelled too.
 
-Note that the particles' color represent their moving direction according to the top-left wheel.
+Note that the particles' color represents their moving direction according to the top-left wheel.
                         
 At the end of the video, notable is the fact that a vortex with four defect lines is formed. My final presentation of this project is documented [here](http://softmatter.physics.sharif.edu/wp-content/uploads/2018/09/kayhan/assets/player/KeynoteDHTMLPlayer.html).
 
